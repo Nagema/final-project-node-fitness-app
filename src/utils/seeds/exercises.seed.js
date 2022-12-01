@@ -27,6 +27,12 @@ const exercises = [
         rest: '6 minutos',
         img: 'https://www.cambiatufisico.com/wp-content/uploads/jalones-frontales1.jpg',
     },
+    {
+      name: 'Press Banca Inclinado A',
+      description: '4 x 12 repeticiones',
+      rest: '30 segundos',
+      img: 'https://1.bp.blogspot.com/-vThyvcDl_Eg/XEoBqk-hYTI/AAAAAAAABtE/H8Nbc2o1eUEaveXAWWW0pA4tLlGa6hzXgCLcBGAs/s320/press-inclinado-barra.jpg'
+    },
 ]
 
 const exercisesDocuments = exercises.map((exercise) => new Exercise(exercise));
