@@ -4,6 +4,30 @@ const Exercise = require("../../api/workouts/exercises/exercises.model");
 
 const exercises = [
   {
+    name: 'Elíptica',
+    description: '15 minutos',
+    rest: '0',
+    img: 'https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/43/an01620_im04022_fsm7_elliptical_machinethu_jpg.jpg'
+  },
+  {
+    name: 'Carrera en cinta',
+    description: '10 minutos',
+    rest: '0',
+    img: 'https://cdn.mos.cms.futurecdn.net/aRumCGdrLKY4MU6AyaJ8rV-1200-80.jpg'
+  },
+  {
+    name: 'Marcha en cinta A',
+    description: '20 minutos',
+    rest: '0',
+    img: 'https://cdn.mos.cms.futurecdn.net/aRumCGdrLKY4MU6AyaJ8rV-1200-80.jpg'
+  },
+  {
+    name: 'Marcha en cinta B',
+    description: '40 minutos',
+    rest: '0',
+    img: 'https://cdn.mos.cms.futurecdn.net/aRumCGdrLKY4MU6AyaJ8rV-1200-80.jpg'
+  },
+  {
     name: "Dominadas A",
     description: "3 x 10",
     rest: "2 minutos",
@@ -40,19 +64,19 @@ const exercises = [
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Wide-Grip-Pulldown_91fcba9b-47a2-4185-b093-aa542c81c55c_600x600.png?v=1612138105",
   },
   {
-    name: "Remo maquina A",
+    name: "Remo máquina A",
     description: "3 x 10",
     rest: "1 minuto",
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Cable-Row_9470fa48-f0d1-40b1-a980-caee9e6f2e53_600x600.png?v=1612138127",
   },
   {
-    name: "Remo maquina B",
+    name: "Remo máquina B",
     description: "4 x 12, 10, 10, 8",
     rest: "1 minuto",
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Cable-Row_9470fa48-f0d1-40b1-a980-caee9e6f2e53_600x600.png?v=1612138127",
   },
   {
-    name: "Remo maquina C",
+    name: "Remo máquina C",
     description: "4 x 12",
     rest: "1 minuto",
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Cable-Row_9470fa48-f0d1-40b1-a980-caee9e6f2e53_600x600.png?v=1612138127",
@@ -323,7 +347,7 @@ const exercises = [
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/EZ-Barbell-Curl_42cb566b-6415-4318-94e0-c93f4b442e59_600x600.png?v=1612137227"
   },
   {
-    name: "Plancha Abdominal",
+    name: "Plancha abdominal",
     description: "4 x 30 segundos",
     rest: "30 segundos",
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Plank_3a82d566-9cb2-4c20-b301-bc8bd635c4d1_600x600.png?v=1612138431"

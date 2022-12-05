@@ -7,11 +7,11 @@ const workouts = [
 {
   name: 'Rutina 1.1.1',
   requirements: ['Perder peso', 'Parte superior','A'],
-  day1: ['Jalón al pecho A','Remo maquina A','Remo mancuerna A','Curl polea biceps A','Crunch abdominal A'],
-  day2: ['Jalón al pecho A','Remo maquina A','Remo mancuerna A','Curl polea biceps A','Crunch abdominal A'],
-  day3: ['Jalón al pecho A','Remo maquina A','Remo mancuerna A','Curl polea biceps A','Crunch abdominal A']
+   day1: ['Carrera en cinta', 'Jalón al pecho A', 'Dominadas A', 'Remo máquina A', 'Remo mancuerna A', 'Curl biceps alterno A', 'Curl polea biceps A', 'Crunch abdominal A', 'Plancha abdominal', 'Marcha en cinta A'],
+  day2: ['Elíptica', 'Press banca plano A', 'Press banca inclinado A', 'Flexiones A', 'Shoulder press A', 'Triceps polea A', 'Marcha en cinta A'],
+  day3: ['Elíptica', 'Sentadilla con peso A', 'Abducción de gluteo A', 'Extensión de cuadriceps A', 'Femorales A', 'Elevación de cadera A', 'Prensa de piernas A', 'Oblicuos A', 'Marcha en cinta A']
 },
-{
+/* {
   name: 'Rutina 1.1.2',
   requirements: ['Perder peso', 'Parte superior','B'],
   day1: ['Jalón al pecho A','Remo maquina A','Remo mancuerna A','Curl polea biceps A','Crunch abdominal A'],
@@ -192,7 +192,7 @@ const workouts = [
   day1: ['Jalón al pecho A','Remo maquina A','Remo mancuerna A','Curl polea biceps A','Crunch abdominal A'],
   day2: ['Jalón al pecho A','Remo maquina A','Remo mancuerna A','Curl polea biceps A','Crunch abdominal A'],
   day3: ['Jalón al pecho A','Remo maquina A','Remo mancuerna A','Curl polea biceps A','Crunch abdominal A']
-},
+}, */
 ]
 
 
