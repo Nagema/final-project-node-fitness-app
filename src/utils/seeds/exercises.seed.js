@@ -4,6 +4,30 @@ const Exercise = require("../../api/workouts/exercises/exercises.model");
 
 const exercises = [
   {
+    name: "Elíptica",
+    description: "15 minutos",
+    rest: "",
+    img: "https://promart.vteximg.com.br/arquivos/ids/6596722-1000-1000/imageUrl_2.jpg?v=638036485162830000"
+  },
+  {
+    name: "Carrera en cinta",
+    description: "10 minutos",
+    rest: "0",
+    img: "https://cdn.webshopapp.com/shops/281654/files/284685849/treadmill-fitrun-30.jpg"
+  },
+  {
+    name: "Marcha en cinta A",
+    description: "20 minutos",
+    rest: "0",
+    img: "https://cdn.shopify.com/s/files/1/0052/7043/7978/products/sunny-health-fitness-treadmills-heavy-duty-walking-treadmill-350lb-capacity-SF-T7643-06.jpg?v=1668125719"
+  },
+  {
+    name: "Marcha en cinta B",
+    description: "40 minutos",
+    rest: "0",
+    img: "https://cdn.shopify.com/s/files/1/0052/7043/7978/products/sunny-health-fitness-treadmills-heavy-duty-walking-treadmill-350lb-capacity-SF-T7643-06.jpg?v=1668125719"
+  },
+  {
     name: "Dominadas A",
     description: "3 x 10",
     rest: "2 minutos",
@@ -40,19 +64,19 @@ const exercises = [
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Wide-Grip-Pulldown_91fcba9b-47a2-4185-b093-aa542c81c55c_600x600.png?v=1612138105",
   },
   {
-    name: "Remo maquina A",
+    name: "Remo máquina A",
     description: "3 x 10",
     rest: "1 minuto",
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Cable-Row_9470fa48-f0d1-40b1-a980-caee9e6f2e53_600x600.png?v=1612138127",
   },
   {
-    name: "Remo maquina B",
+    name: "Remo máquina B",
     description: "4 x 12, 10, 10, 8",
     rest: "1 minuto",
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Cable-Row_9470fa48-f0d1-40b1-a980-caee9e6f2e53_600x600.png?v=1612138127",
   },
   {
-    name: "Remo maquina C",
+    name: "Remo máquina C",
     description: "4 x 12",
     rest: "1 minuto",
     img: "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Cable-Row_9470fa48-f0d1-40b1-a980-caee9e6f2e53_600x600.png?v=1612138127",

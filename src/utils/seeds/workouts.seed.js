@@ -7,8 +7,8 @@ const workouts = [
     {
         name: 'Rutina 1',
         requirements: ['Perder peso', 'Delgado'],
-        day1: ['Dominadas B', 'Jalón al pecho A'],
-        day2: ['Dominadas B', 'Jalón al pecho A'],
+        day1: ['Carrera en cinta', 'Jalón al pecho A', 'Dominadas A', 'Remo máquina A', 'Remo mancuerna A', 'Curl biceps alterno A', 'Curl polea biceps A', 'Crunch abdominal A', 'Plancha abdominal', 'Marcha en cinta A'],
+        day2: [''],
         day3: ['Dominadas B', 'Jalón al pecho A']
     },
 ]
