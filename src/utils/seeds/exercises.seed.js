@@ -13,7 +13,7 @@ const exercises = [
     name: 'Carrera en cinta',
     description: '10 minutos',
     rest: '0',
-    img: 'https://cdn.mos.cms.futurecdn.net/aRumCGdrLKY4MU6AyaJ8rV-1200-80.jpg'
+    img: 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/27667/man-on-treadmill-clipart-xl.png'
   },
   {
     name: 'Marcha en cinta A',
