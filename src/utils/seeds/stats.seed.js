@@ -5,22 +5,22 @@ const Stat = require('../../api/stats/stats.model')
 const stats = [
     {
         height: 170,
-        weight: 70
+        weight: 71
     },
     {
         height: 190,
-        weight: 56
+        weight: 88
     },
     {
         height: 170,
         weight: 45
     },
     {
-        height: 130,
+        height: 166,
         weight: 89
     },
     {
-        height: 156,
+        height: 161,
         weight: 120
     },
     {
@@ -32,7 +32,7 @@ const stats = [
         weight: 83
     },
     {
-        height: 170,
+        height: 151,
         weight: 72
     },
 ]

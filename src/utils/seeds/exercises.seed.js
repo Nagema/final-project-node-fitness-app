@@ -7,7 +7,7 @@ const exercises = [
     name: 'Elíptica',
     description: '15 minutos',
     rest: '0',
-    img: 'https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/43/an01620_im04022_fsm7_elliptical_machinethu_jpg.jpg'
+    img: 'https://www.pngplay.com/wp-content/uploads/6/Elliptical-Trainer-Machine-Transparent-File.png'
   },
   {
     name: 'Carrera en cinta',
@@ -19,13 +19,13 @@ const exercises = [
     name: 'Marcha en cinta A',
     description: '20 minutos',
     rest: '0',
-    img: 'https://cdn.mos.cms.futurecdn.net/aRumCGdrLKY4MU6AyaJ8rV-1200-80.jpg'
+    img: 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/27667/man-on-treadmill-clipart-xl.png'
   },
   {
     name: 'Marcha en cinta B',
     description: '40 minutos',
     rest: '0',
-    img: 'https://cdn.mos.cms.futurecdn.net/aRumCGdrLKY4MU6AyaJ8rV-1200-80.jpg'
+    img: 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/27667/man-on-treadmill-clipart-xl.png'
   },
   {
     name: "Dominadas A",
